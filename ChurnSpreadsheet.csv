@@ -1,0 +1,565 @@
+CustomerID,TenureMonths,MonthlyCharges,TotalCharges,ContractType,PaymentMethod,InternetService,TechSupport,OnlineBackup,StreamingTV,DeviceProtection,PaperlessBilling,SeniorCitizen,Dependents,Gender,Partner,Churn,ChurnProbability
+97110,3,29.99,100.37,Month-to-Month,PayPal,Cable,No,No,No,No,Yes,0,0,Female,No,Yes,0.75
+61504,1,89.99,89.99,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,1,0,Female,Yes,Yes,0.68
+12633,1,39.99,39.99,Month-to-Month,PayPal,DSL,No,No,No,No,Yes,0,1,Male,Yes,Yes,0.66
+74603,3,45,128.45,Month-to-Month,ACH,Fiber Optic,No,No,No,No,Yes,0,1,Male,No,Yes,0.66
+20284,1,99,99,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,Yes,0,0,Male,Yes,No,0.72
+41653,3,74.99,197.08,Month-to-Month,PayPal,DSL,No,No,No,No,No,0,0,Female,No,Yes,0.61
+35706,2,45,90,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,Yes,No,0.7
+73769,1,74.99,74.99,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,No,0,0,Male,No,Yes,0.71
+76574,1,39.99,39.99,Month-to-Month,PayPal,DSL,No,No,No,No,Yes,0,0,Male,No,Yes,0.71
+44045,1,45,45,Month-to-Month,PayPal,None,No,No,No,No,No,0,0,Female,Yes,No,0.55
+72808,2,64.99,129.98,Month-to-Month,PayPal,None,No,No,No,No,Yes,0,1,Female,No,No,0.55
+36147,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,1,Female,Yes,Yes,0.55
+56203,3,39.99,125.16,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,1,0,Female,Yes,Yes,0.55
+24468,3,99,307.84,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,0,0,Male,No,No,0.55
+11093,2,45,90,Month-to-Month,Credit Card,Cable,No,No,No,No,Yes,0,1,Female,No,Yes,0.55
+25858,4,39.99,141.85,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,Yes,0,0,Male,No,No,0.55
+85323,1,29.99,29.99,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,1,0,Female,Yes,Yes,0.55
+23585,3,29.99,103.49,Month-to-Month,Credit Card,Cable,No,No,No,No,Yes,0,0,Male,No,No,0.55
+23270,3,45,129.73,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,Yes,Yes,0.55
+18996,2,54.99,109.98,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,1,Female,No,Yes,0.55
+49177,5,54.99,252.72,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,1,0,Male,Yes,No,0.55
+74502,1,45,45,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,1,0,Male,Yes,No,0.55
+44632,1,45,45,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,1,0,Male,Yes,Yes,0.55
+75106,2,89.99,179.98,Month-to-Month,PayPal,None,No,No,No,No,No,1,0,Male,Yes,Yes,0.55
+79960,5,89.99,517.9,Month-to-Month,Credit Card,None,No,No,No,No,No,0,0,Female,Yes,Yes,0.55
+22528,4,39.99,186.39,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,0,0,Male,Yes,No,0.55
+78170,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Male,No,No,0.55
+47306,1,89.99,89.99,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Male,No,Yes,0.55
+91015,4,29.99,112.55,Month-to-Month,Credit Card,Cable,No,No,No,No,Yes,0,1,Male,Yes,Yes,0.55
+15952,1,39.99,39.99,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,Yes,0,1,Male,Yes,Yes,0.55
+67563,5,45,220.45,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,Yes,No,0.55
+52898,4,54.99,246.9,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,No,0,0,Female,Yes,No,0.55
+54621,1,89.99,89.99,Month-to-Month,ACH,Fiber Optic,No,No,No,No,Yes,0,1,Male,No,Yes,0.55
+16121,3,45,108.13,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Male,Yes,Yes,0.55
+65952,4,54.99,189.11,Month-to-Month,ACH,Fiber Optic,No,No,No,No,Yes,1,0,Male,No,No,0.55
+97044,4,29.99,119.29,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,No,1,0,Male,No,No,0.55
+49035,5,39.99,214.56,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,No,Yes,0.55
+35018,1,74.99,74.99,Month-to-Month,Credit Card,None,No,No,No,No,Yes,0,1,Female,Yes,Yes,0.55
+52919,1,64.99,64.99,Month-to-Month,Credit Card,Cable,No,No,No,No,No,1,0,Female,Yes,No,0.55
+36334,1,64.99,64.99,Month-to-Month,Credit Card,None,No,No,Yes,No,Yes,0,1,Female,Yes,No,0.5
+80662,3,45,139.57,Month-to-Month,PayPal,Fiber Optic,No,No,No,Yes,No,0,0,Female,Yes,Yes,0.5
+44097,1,39.99,39.99,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,0,Male,No,No,0.5
+60520,1,64.99,64.99,Month-to-Month,Mailed Check,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.5
+54944,1,54.99,54.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,1,0,Female,No,Yes,0.5
+31865,3,45,115.68,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Female,No,No,0.5
+17693,1,74.99,74.99,Month-to-Month,ACH,DSL,No,Yes,No,No,No,0,0,Female,Yes,No,0.5
+89192,4,64.99,247.46,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,No,0.5
+85535,1,45,45,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,1,0,Male,Yes,No,0.5
+62399,2,39.99,79.98,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,No,0,0,Male,No,No,0.5
+60254,1,45,45,Month-to-Month,PayPal,Fiber Optic,Yes,No,No,No,Yes,0,0,Female,No,No,0.5
+25827,1,64.99,64.99,Month-to-Month,Mailed Check,Cable,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.5
+13656,1,45,45,Month-to-Month,ACH,Cable,Yes,No,No,No,Yes,0,0,Male,No,No,0.5
+40737,5,39.99,237.94,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,No,0,0,Female,No,No,0.5
+41159,1,45,45,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,No,0.5
+65333,5,54.99,285.87,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+48202,4,45,158.62,Month-to-Month,Credit Card,DSL,No,No,Yes,No,Yes,0,0,Male,No,Yes,0.5
+36307,5,74.99,307.7,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,No,No,0.5
+42018,5,29.99,149.47,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,1,0,Female,Yes,Yes,0.5
+93798,1,45,45,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.5
+11444,1,99,99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,Yes,0.5
+64274,2,89.99,179.98,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+52554,1,39.99,39.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.5
+63464,2,45,90,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,No,No,0.5
+17119,1,29.99,29.99,Month-to-Month,Credit Card,Cable,No,Yes,No,No,No,0,0,Male,Yes,No,0.5
+67712,5,54.99,246.8,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+74174,4,39.99,153.92,Month-to-Month,Credit Card,Fiber Optic,No,No,No,Yes,Yes,0,1,Female,No,No,0.5
+53234,1,64.99,64.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.5
+42469,3,54.99,153.86,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,No,1,0,Male,Yes,Yes,0.5
+63672,1,54.99,54.99,Month-to-Month,Credit Card,DSL,No,Yes,No,No,No,1,0,Male,Yes,No,0.5
+76606,3,39.99,102.6,Month-to-Month,Credit Card,Fiber Optic,Yes,No,No,No,Yes,1,0,Female,No,No,0.5
+35066,4,39.99,183.56,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,Yes,0.5
+45327,4,39.99,149.99,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,1,0,Female,Yes,Yes,0.5
+96184,5,39.99,175.33,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,1,0,Male,Yes,No,0.5
+85599,1,29.99,29.99,Month-to-Month,ACH,None,No,Yes,No,No,Yes,0,0,Male,No,No,0.5
+24517,1,45,45,Month-to-Month,ACH,DSL,No,No,Yes,No,No,1,0,Male,Yes,Yes,0.5
+53220,1,45,45,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.5
+15209,1,45,45,Month-to-Month,ACH,Fiber Optic,No,No,Yes,No,No,0,0,Female,No,No,0.5
+85297,4,39.99,174.32,Month-to-Month,PayPal,Cable,No,No,Yes,No,Yes,0,1,Male,No,No,0.5
+10536,1,29.99,29.99,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,No,Yes,0.5
+71076,1,89.99,89.99,Month-to-Month,Credit Card,Fiber Optic,Yes,No,No,No,No,0,1,Female,Yes,No,0.5
+93261,1,29.99,29.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,1,0,Male,Yes,No,0.5
+45358,2,29.99,59.98,Month-to-Month,Credit Card,DSL,No,No,Yes,No,Yes,0,0,Male,Yes,No,0.5
+13807,2,39.99,79.98,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,No,0,0,Female,No,Yes,0.5
+23411,2,45,90,Month-to-Month,ACH,DSL,No,Yes,No,No,Yes,1,0,Male,No,Yes,0.5
+94762,2,74.99,149.98,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,1,Female,No,No,0.5
+95054,3,54.99,152.43,Month-to-Month,PayPal,None,No,Yes,No,No,Yes,0,0,Female,No,No,0.5
+91509,4,29.99,142.89,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,Yes,Yes,0.5
+84219,4,45,167.07,Month-to-Month,PayPal,DSL,Yes,No,No,No,No,1,0,Female,No,No,0.5
+20162,1,29.99,29.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+23092,3,45,140.56,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,0,0,Female,Yes,No,0.5
+14987,1,29.99,29.99,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,1,Female,No,Yes,0.5
+95059,1,39.99,39.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,1,0,Female,No,Yes,0.5
+85265,4,45,174.62,Month-to-Month,PayPal,DSL,No,No,Yes,No,Yes,0,0,Female,No,No,0.5
+16791,1,54.99,54.99,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,1,1,Female,Yes,Yes,0.5
+23205,1,29.99,29.99,Month-to-Month,Credit Card,None,No,No,No,Yes,Yes,0,0,Male,No,Yes,0.5
+94605,3,89.99,220.39,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.5
+43031,2,54.99,109.98,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,No,Yes,0.5
+14546,3,39.99,127.9,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.5
+72432,1,54.99,54.99,Month-to-Month,Credit Card,None,No,No,No,Yes,Yes,0,1,Female,Yes,Yes,0.5
+52096,2,39.99,79.98,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,No,No,0.5
+73449,1,74.99,74.99,Month-to-Month,Credit Card,DSL,No,Yes,No,No,No,1,0,Male,No,No,0.5
+38200,4,64.99,298.24,Month-to-Month,ACH,Fiber Optic,No,No,Yes,No,Yes,0,0,Female,No,No,0.5
+97138,1,29.99,29.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,1,Female,No,No,0.5
+34355,1,54.99,54.99,Month-to-Month,ACH,Fiber Optic,Yes,No,No,No,Yes,0,0,Male,Yes,Yes,0.5
+78503,3,64.99,175.46,Month-to-Month,Credit Card,Fiber Optic,No,No,No,Yes,Yes,0,0,Male,No,Yes,0.5
+26488,4,29.99,141.7,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.5
+90890,2,54.99,109.98,Month-to-Month,PayPal,Cable,No,No,Yes,No,Yes,0,1,Female,Yes,No,0.5
+63391,4,39.99,165.97,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,1,0,Female,No,No,0.5
+35165,1,39.99,39.99,Month-to-Month,Credit Card,None,No,Yes,No,No,Yes,0,1,Male,Yes,Yes,0.5
+56857,1,39.99,39.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,No,0,1,Female,Yes,No,0.5
+52026,2,54.99,109.98,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,0,Female,Yes,Yes,0.5
+43366,1,45,45,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.5
+31817,1,39.99,39.99,Month-to-Month,Credit Card,None,No,Yes,No,No,Yes,0,1,Male,No,No,0.5
+39045,2,29.99,59.98,Month-to-Month,PayPal,DSL,No,Yes,No,No,No,0,1,Female,Yes,Yes,0.5
+40252,1,39.99,39.99,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,0,Female,Yes,Yes,0.5
+23630,2,45,90,Month-to-Month,Mailed Check,DSL,No,Yes,No,No,Yes,0,1,Male,No,Yes,0.5
+76080,1,74.99,74.99,Month-to-Month,Credit Card,DSL,No,No,No,Yes,Yes,1,0,Female,Yes,No,0.5
+16253,1,39.99,39.99,Month-to-Month,PayPal,DSL,No,No,No,Yes,Yes,1,0,Female,No,No,0.5
+51625,4,64.99,257.46,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.5
+94933,1,89.99,89.99,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+16145,1,39.99,39.99,Month-to-Month,ACH,Fiber Optic,Yes,No,No,No,No,0,0,Male,No,No,0.5
+72028,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,No,0.5
+14847,1,45,45,Month-to-Month,ACH,DSL,Yes,No,No,No,Yes,0,0,Male,Yes,No,0.5
+58429,1,45,45,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.5
+42677,2,39.99,79.98,Month-to-Month,Credit Card,Fiber Optic,No,No,No,Yes,Yes,0,1,Male,No,No,0.5
+83855,1,45,45,Month-to-Month,Mailed Check,DSL,No,No,No,Yes,Yes,0,0,Male,Yes,Yes,0.5
+40730,1,29.99,29.99,Month-to-Month,ACH,DSL,No,Yes,No,No,Yes,1,0,Female,No,Yes,0.5
+64735,1,29.99,29.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,No,0,1,Female,No,Yes,0.5
+48342,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,0,0,Male,No,Yes,0.5
+30727,4,45,208.07,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,1,Female,Yes,Yes,0.5
+86289,1,39.99,39.99,Month-to-Month,PayPal,Fiber Optic,Yes,No,No,No,Yes,0,0,Male,Yes,Yes,0.5
+51904,3,54.99,161.2,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+49752,1,29.99,29.99,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.5
+22862,2,89.99,179.98,Month-to-Month,PayPal,Fiber Optic,No,No,Yes,No,Yes,0,1,Male,Yes,Yes,0.5
+82299,1,89.99,89.99,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,1,0,Male,Yes,No,0.5
+90258,3,39.99,141.81,Month-to-Month,PayPal,None,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.5
+20611,1,29.99,29.99,Month-to-Month,Mailed Check,Cable,No,No,Yes,No,No,0,1,Male,No,Yes,0.5
+23263,1,64.99,64.99,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,1,0,Male,Yes,Yes,0.5
+34294,1,29.99,29.99,Month-to-Month,Credit Card,Cable,No,No,Yes,No,Yes,0,1,Female,Yes,No,0.5
+11217,3,29.99,97.05,Month-to-Month,PayPal,None,Yes,No,No,No,Yes,0,0,Female,No,Yes,0.5
+92788,3,45,112.41,Month-to-Month,Credit Card,DSL,No,No,Yes,No,Yes,0,0,Female,No,No,0.5
+68307,1,29.99,29.99,Month-to-Month,ACH,DSL,No,Yes,No,No,No,0,0,Female,Yes,Yes,0.5
+93289,2,45,90,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Female,No,No,0.5
+85727,1,39.99,39.99,Month-to-Month,PayPal,DSL,Yes,No,No,No,Yes,0,0,Male,Yes,No,0.5
+95360,2,99,198,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,1,Female,Yes,No,0.5
+89071,3,54.99,167.02,Month-to-Month,Credit Card,DSL,Yes,No,No,No,Yes,0,1,Female,Yes,No,0.5
+16477,3,45,135.38,Month-to-Month,Credit Card,Cable,Yes,Yes,No,No,No,0,1,Female,Yes,Yes,0.45
+15893,1,64.99,64.99,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,0,0,Male,No,Yes,0.45
+71651,5,54.99,257.84,Month-to-Month,PayPal,DSL,Yes,No,Yes,No,Yes,0,0,Female,No,Yes,0.45
+79463,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Female,Yes,No,0.45
+94498,1,39.99,39.99,Month-to-Month,Credit Card,DSL,No,Yes,No,Yes,No,0,1,Male,Yes,Yes,0.45
+16906,1,39.99,39.99,Month-to-Month,PayPal,Cable,No,Yes,Yes,No,Yes,1,0,Female,No,Yes,0.45
+66041,1,74.99,74.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,No,Yes,0.45
+14711,2,45,90,Month-to-Month,ACH,Cable,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.45
+28600,1,64.99,64.99,Month-to-Month,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,Yes,Yes,0.45
+29823,1,64.99,64.99,Month-to-Month,Mailed Check,Fiber Optic,No,Yes,No,Yes,No,0,0,Male,No,No,0.45
+80492,1,45,45,Month-to-Month,PayPal,Fiber Optic,Yes,No,Yes,No,No,0,1,Female,Yes,No,0.45
+23641,1,45,45,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,0,Female,Yes,No,0.45
+28841,1,45,45,Month-to-Month,ACH,DSL,No,Yes,Yes,No,Yes,0,1,Female,Yes,Yes,0.45
+50436,4,89.99,372.75,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,1,Male,No,No,0.45
+32004,1,45,45,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,0,Male,Yes,Yes,0.45
+26184,1,45,45,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,1,0,Female,Yes,Yes,0.45
+16562,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,No,1,0,Male,Yes,No,0.45
+42538,2,74.99,149.98,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,0,Female,Yes,Yes,0.45
+24086,3,39.99,141.87,Month-to-Month,Credit Card,DSL,No,Yes,No,Yes,Yes,0,0,Female,No,Yes,0.45
+50005,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,Yes,Yes,0,1,Female,No,Yes,0.45
+24358,5,89.99,415.74,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,Yes,Yes,0,0,Female,No,Yes,0.45
+26000,4,45,211.31,Month-to-Month,ACH,Cable,No,Yes,Yes,No,Yes,1,0,Male,Yes,No,0.45
+70402,1,54.99,54.99,Month-to-Month,ACH,DSL,No,Yes,No,Yes,No,0,0,Female,Yes,No,0.45
+20047,4,29.99,122.35,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,1,0,Female,No,No,0.45
+43596,1,29.99,29.99,Month-to-Month,ACH,DSL,No,Yes,Yes,No,Yes,1,0,Male,Yes,No,0.45
+19416,2,54.99,109.98,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,1,0,Male,Yes,No,0.45
+34283,2,64.99,129.98,Month-to-Month,Mailed Check,DSL,No,Yes,No,Yes,Yes,0,0,Female,Yes,Yes,0.45
+86365,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,Yes,Yes,0,0,Female,Yes,No,0.45
+28869,2,54.99,109.98,Month-to-Month,PayPal,DSL,No,Yes,No,Yes,Yes,0,0,Female,No,No,0.45
+10007,1,64.99,64.99,Month-to-Month,Credit Card,None,No,Yes,No,Yes,Yes,0,0,Female,Yes,No,0.45
+49967,2,74.99,149.98,Month-to-Month,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Female,Yes,No,0.45
+86355,1,29.99,29.99,Month-to-Month,ACH,Fiber Optic,No,Yes,No,Yes,No,0,0,Male,Yes,Yes,0.45
+15119,1,29.99,29.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,Yes,No,Yes,1,0,Female,Yes,Yes,0.45
+89982,1,74.99,74.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,Yes,Yes,1,0,Male,Yes,No,0.45
+81588,2,29.99,59.98,Month-to-Month,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Female,Yes,Yes,0.45
+59128,1,89.99,89.99,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,No,0,1,Male,Yes,Yes,0.45
+14298,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,Yes,Yes,0,1,Male,Yes,Yes,0.45
+18693,1,54.99,54.99,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,Yes,No,0,0,Male,Yes,No,0.45
+16834,4,39.99,161.03,Month-to-Month,PayPal,None,No,Yes,No,Yes,Yes,0,1,Female,No,Yes,0.45
+35087,1,29.99,29.99,Month-to-Month,ACH,DSL,No,Yes,Yes,No,Yes,0,0,Female,Yes,Yes,0.45
+27410,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Female,Yes,Yes,0.45
+97085,2,39.99,79.98,Month-to-Month,PayPal,Cable,No,Yes,Yes,No,Yes,0,1,Female,Yes,No,0.45
+48502,1,74.99,74.99,Month-to-Month,PayPal,DSL,Yes,No,No,Yes,No,0,0,Male,No,Yes,0.45
+53482,1,45,45,Month-to-Month,Mailed Check,Fiber Optic,No,Yes,Yes,No,No,0,1,Female,No,Yes,0.45
+23589,2,45,90,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,1,Male,No,No,0.45
+93599,1,74.99,74.99,Month-to-Month,ACH,DSL,No,Yes,Yes,No,Yes,0,1,Male,No,No,0.45
+45851,2,39.99,79.98,Month-to-Month,Credit Card,DSL,No,Yes,No,Yes,Yes,0,0,Female,No,Yes,0.45
+95129,1,45,45,Month-to-Month,PayPal,DSL,No,Yes,No,Yes,No,0,0,Male,Yes,No,0.45
+23889,1,29.99,29.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,No,No,0.45
+23573,5,39.99,212.59,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Male,No,Yes,0.45
+72298,1,45,45,Month-to-Month,Credit Card,Cable,Yes,Yes,No,No,Yes,0,1,Female,Yes,No,0.45
+99343,1,64.99,64.99,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.45
+47536,1,89.99,89.99,Month-to-Month,ACH,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Female,Yes,Yes,0.45
+87256,1,45,45,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,Yes,1,0,Female,Yes,No,0.45
+88074,1,54.99,54.99,Month-to-Month,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Female,No,No,0.45
+79083,1,39.99,39.99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,1,Female,Yes,No,0.45
+40593,1,45,45,Month-to-Month,PayPal,None,Yes,Yes,No,No,Yes,0,0,Male,No,Yes,0.45
+82889,5,89.99,380.33,Month-to-Month,Mailed Check,DSL,No,Yes,Yes,No,Yes,0,0,Female,Yes,Yes,0.45
+95261,7,45,261.85,Month-to-Month,PayPal,Cable,No,No,No,No,No,0,0,Female,Yes,No,0.45
+90121,6,29.99,177.87,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,Yes,No,0.45
+50870,34,54.99,1839.93,Month-to-Month,PayPal,Cable,No,No,No,No,Yes,0,0,Female,No,No,0.45
+17084,29,39.99,1287.13,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,Yes,0,1,Male,Yes,No,0.45
+79909,30,64.99,1834.89,Month-to-Month,PayPal,DSL,No,No,No,No,Yes,0,1,Male,No,No,0.45
+75133,6,45,269.7,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,0,Female,Yes,Yes,0.45
+46093,24,29.99,601.55,Month-to-Month,PayPal,Cable,No,No,No,No,Yes,0,0,Male,Yes,Yes,0.45
+40192,16,54.99,773.93,Month-to-Month,PayPal,None,No,No,No,No,No,0,0,Female,No,No,0.45
+83525,18,39.99,667.99,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,0,1,Male,No,No,0.45
+76898,11,45,416.88,Month-to-Month,Mailed Check,Cable,No,No,No,No,Yes,1,1,Male,No,Yes,0.45
+17062,24,54.99,1479.2,Month-to-Month,ACH,DSL,No,No,No,No,Yes,1,0,Female,No,No,0.45
+38223,19,45,697.31,Month-to-Month,Credit Card,Cable,No,No,No,No,Yes,0,1,Female,Yes,No,0.45
+84025,26,54.99,1480.25,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,0,0,Male,No,No,0.45
+44722,32,89.99,2609.33,Month-to-Month,ACH,Fiber Optic,No,No,No,No,Yes,0,0,Male,No,Yes,0.45
+54347,14,45,678.89,Month-to-Month,PayPal,Fiber Optic,No,No,No,No,No,0,1,Male,No,Yes,0.45
+75737,15,45,655.09,Month-to-Month,Credit Card,Cable,No,No,No,No,Yes,0,1,Female,No,No,0.45
+33568,13,45,531.12,Month-to-Month,ACH,Cable,No,No,No,No,Yes,0,1,Male,Yes,Yes,0.45
+96586,6,54.99,307.13,Month-to-Month,Credit Card,Fiber Optic,No,No,No,No,Yes,0,1,Male,Yes,No,0.45
+61446,30,45,1105.43,Month-to-Month,PayPal,Cable,No,No,No,No,Yes,0,0,Female,Yes,No,0.45
+88676,22,74.99,1589.52,Month-to-Month,PayPal,DSL,No,No,No,No,Yes,1,0,Male,No,No,0.45
+18708,6,45,278.77,Month-to-Month,PayPal,None,No,No,No,No,Yes,0,0,Female,Yes,No,0.45
+59460,24,64.99,1396.81,Month-to-Month,Credit Card,DSL,No,No,No,No,Yes,0,0,Male,Yes,Yes,0.45
+27876,2,39.99,79.98,Month-to-Month,Credit Card,Cable,Yes,Yes,No,Yes,No,1,0,Male,No,No,0.4
+29226,7,89.99,509.97,Month-to-Month,PayPal,Fiber Optic,No,No,Yes,No,Yes,1,0,Male,Yes,Yes,0.4
+80173,2,74.99,149.98,Month-to-Month,PayPal,Fiber Optic,No,Yes,Yes,Yes,Yes,0,0,Male,No,Yes,0.4
+84094,3,39.99,135.86,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,Yes,Yes,0,1,Male,No,Yes,0.4
+17241,2,45,90,Month-to-Month,PayPal,DSL,Yes,Yes,No,Yes,Yes,0,0,Female,No,Yes,0.4
+26041,8,64.99,419.22,Month-to-Month,PayPal,DSL,No,No,Yes,No,Yes,0,0,Female,No,Yes,0.4
+63384,7,64.99,496.66,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.4
+49978,13,39.99,505.79,Month-to-Month,Credit Card,DSL,No,No,No,Yes,No,0,0,Male,No,No,0.4
+29862,14,29.99,454.33,Month-to-Month,Mailed Check,Cable,No,No,Yes,No,Yes,0,0,Male,No,No,0.4
+39028,19,45,936.66,Month-to-Month,PayPal,Cable,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.4
+50210,1,74.99,74.99,Month-to-Month,Credit Card,Cable,Yes,Yes,Yes,No,No,0,0,Male,No,Yes,0.4
+44260,16,64.99,1086.82,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,1,Male,No,No,0.4
+98038,34,64.99,1899.95,Month-to-Month,ACH,None,No,Yes,No,No,No,1,0,Male,No,No,0.4
+32121,9,45,452.52,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,1,0,Male,Yes,No,0.4
+95706,29,39.99,1047.8,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+95764,21,29.99,700.36,Month-to-Month,PayPal,DSL,No,No,Yes,No,Yes,0,1,Male,Yes,No,0.4
+76381,8,39.99,379.23,Month-to-Month,Credit Card,None,No,No,Yes,No,Yes,0,1,Female,Yes,Yes,0.4
+47546,30,54.99,1908.67,Month-to-Month,ACH,None,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.4
+16833,9,74.99,677.04,Month-to-Month,PayPal,None,No,Yes,No,No,Yes,0,0,Female,No,No,0.4
+69619,30,54.99,1437.97,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.4
+75082,6,54.99,327.5,Month-to-Month,Credit Card,Fiber Optic,Yes,No,No,No,Yes,0,0,Female,Yes,Yes,0.4
+20616,1,54.99,54.99,Month-to-Month,PayPal,None,No,Yes,Yes,Yes,Yes,0,1,Male,Yes,Yes,0.4
+49773,16,29.99,575.13,Month-to-Month,ACH,DSL,Yes,No,No,No,Yes,0,1,Male,No,No,0.4
+52628,34,54.99,1583.53,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.4
+95150,15,64.99,853.36,Month-to-Month,PayPal,Cable,Yes,No,No,No,Yes,0,0,Female,No,Yes,0.4
+29017,11,29.99,308.58,Month-to-Month,Mailed Check,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.4
+80158,26,39.99,881.34,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,0,0,Male,Yes,No,0.4
+94128,7,29.99,190.81,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+81748,35,39.99,1275,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.4
+43120,9,45,406.42,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,No,No,0.4
+60061,1,99,99,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,Yes,Yes,0,0,Male,Yes,No,0.4
+31369,10,45,439.49,Month-to-Month,Credit Card,None,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.4
+47920,7,45,357.31,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,Yes,0.4
+43533,7,39.99,272.3,Month-to-Month,PayPal,None,No,Yes,No,No,No,0,0,Male,No,Yes,0.4
+81149,14,39.99,498.89,Month-to-Month,Credit Card,DSL,Yes,No,No,No,Yes,0,1,Female,Yes,Yes,0.4
+30929,7,39.99,305.98,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,No,0,0,Male,No,No,0.4
+80225,5,45,212.15,Month-to-Month,ACH,Fiber Optic,Yes,Yes,Yes,No,Yes,0,0,Female,Yes,No,0.4
+31981,16,39.99,543.72,Month-to-Month,ACH,Fiber Optic,No,No,Yes,No,Yes,1,0,Female,Yes,Yes,0.4
+54014,25,39.99,1122.74,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+52333,1,29.99,29.99,Month-to-Month,PayPal,DSL,No,Yes,Yes,Yes,Yes,0,1,Male,No,Yes,0.4
+73142,25,54.99,1402.51,Month-to-Month,Credit Card,None,No,No,Yes,No,Yes,0,0,Male,Yes,Yes,0.4
+97881,12,39.99,423.85,Month-to-Month,Mailed Check,DSL,No,No,Yes,No,Yes,0,0,Female,Yes,No,0.4
+78572,5,29.99,156.59,Month-to-Month,PayPal,DSL,Yes,Yes,No,Yes,Yes,1,0,Female,Yes,No,0.4
+50099,4,39.99,180.58,Month-to-Month,Credit Card,Cable,Yes,Yes,Yes,No,Yes,0,1,Female,No,No,0.4
+36240,1,74.99,74.99,Month-to-Month,Credit Card,DSL,Yes,Yes,Yes,No,Yes,0,0,Female,Yes,No,0.4
+53467,16,29.99,441.75,Month-to-Month,Credit Card,DSL,No,Yes,No,No,No,0,1,Male,Yes,Yes,0.4
+75135,23,89.99,1796.24,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,1,Female,Yes,Yes,0.4
+87172,29,74.99,2164.72,Month-to-Month,Mailed Check,None,No,Yes,No,No,No,0,0,Female,No,Yes,0.4
+97847,16,89.99,1439.47,Month-to-Month,ACH,None,No,Yes,No,No,Yes,0,0,Female,No,No,0.4
+38018,12,74.99,987.83,Month-to-Month,Credit Card,DSL,Yes,No,No,No,Yes,0,0,Male,No,No,0.4
+73538,26,54.99,1190.45,Month-to-Month,ACH,None,No,No,Yes,No,Yes,0,0,Female,Yes,No,0.4
+99725,12,74.99,754.75,Month-to-Month,Credit Card,DSL,No,No,Yes,No,Yes,0,0,Male,No,Yes,0.4
+68419,26,45,1236.32,Month-to-Month,ACH,DSL,No,Yes,No,No,No,0,0,Female,Yes,No,0.4
+90606,12,39.99,444.45,Month-to-Month,ACH,Cable,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+15595,22,29.99,746.31,Month-to-Month,Credit Card,Fiber Optic,No,No,No,Yes,Yes,0,0,Female,Yes,No,0.4
+28171,20,39.99,667.41,Month-to-Month,PayPal,DSL,No,No,Yes,No,Yes,0,0,Male,No,Yes,0.4
+76032,27,89.99,2852.56,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Female,No,No,0.4
+84644,34,29.99,924.49,Month-to-Month,PayPal,DSL,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+33010,9,29.99,252.87,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Female,No,Yes,0.4
+41775,7,39.99,274.59,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,No,0.4
+93254,33,74.99,2077.86,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,1,Male,No,No,0.4
+99259,13,39.99,460.47,Month-to-Month,PayPal,None,No,No,Yes,No,Yes,1,0,Male,Yes,Yes,0.4
+29637,26,39.99,989.48,Month-to-Month,ACH,Fiber Optic,Yes,No,No,No,Yes,0,1,Female,No,No,0.4
+86613,13,39.99,494.02,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,0,0,Female,Yes,No,0.4
+28887,28,39.99,982.1,Month-to-Month,ACH,DSL,No,No,Yes,No,Yes,0,1,Female,Yes,Yes,0.4
+30063,15,39.99,544.65,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,No,0.4
+33272,28,54.99,1728.21,Month-to-Month,Credit Card,Cable,No,No,No,Yes,Yes,0,1,Male,Yes,Yes,0.4
+76401,35,29.99,1182.88,Month-to-Month,Credit Card,Fiber Optic,No,No,Yes,No,Yes,0,1,Female,No,No,0.4
+90387,1,99,99,Month-to-Month,PayPal,Cable,Yes,Yes,Yes,No,No,0,0,Female,Yes,Yes,0.4
+88648,7,89.99,678.48,Month-to-Month,Credit Card,None,No,No,Yes,No,No,0,0,Male,No,No,0.4
+49657,20,39.99,765.11,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,No,0.4
+97310,6,89.99,626.53,Month-to-Month,PayPal,Cable,No,No,Yes,No,Yes,0,0,Male,Yes,No,0.4
+40731,8,39.99,307.38,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,No,0,0,Male,Yes,No,0.4
+96369,17,39.99,656.4,Month-to-Month,ACH,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,No,No,0.4
+56724,19,29.99,586.19,Month-to-Month,Credit Card,DSL,No,Yes,No,No,Yes,0,1,Female,No,No,0.4
+82511,14,54.99,634.41,Month-to-Month,PayPal,Cable,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.4
+77768,8,29.99,267.74,Month-to-Month,Credit Card,Cable,No,Yes,No,No,Yes,0,0,Female,Yes,Yes,0.4
+10221,18,45,955.61,Month-to-Month,Credit Card,Cable,No,Yes,No,No,No,0,1,Male,Yes,Yes,0.4
+50733,35,29.99,842.4,Month-to-Month,PayPal,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.4
+32355,12,45,562.29,Month-to-Month,PayPal,Cable,No,No,Yes,No,No,0,0,Male,No,No,0.4
+80465,8,54.99,398.17,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,1,Male,Yes,Yes,0.4
+22780,14,45,614.45,Month-to-Month,Credit Card,DSL,Yes,No,No,No,Yes,0,0,Male,No,Yes,0.4
+50814,14,39.99,569.34,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,1,Male,Yes,Yes,0.35
+87777,14,45,736.08,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,0,1,Male,Yes,No,0.35
+30024,9,45,328.73,Month-to-Month,Credit Card,Cable,No,Yes,Yes,No,No,1,0,Female,Yes,Yes,0.35
+19096,15,74.99,962.92,Month-to-Month,Credit Card,Fiber Optic,No,Yes,No,Yes,Yes,0,0,Male,No,No,0.35
+26893,12,39.99,556.83,Month-to-Month,Credit Card,DSL,No,Yes,No,Yes,Yes,0,1,Female,No,No,0.35
+34228,27,74.99,1877.43,Month-to-Month,Credit Card,DSL,Yes,Yes,No,No,Yes,0,1,Female,No,No,0.35
+99760,24,39.99,913.95,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.35
+63084,23,45,1183.98,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,No,1,0,Female,Yes,No,0.35
+20797,8,74.99,638.99,Month-to-Month,PayPal,Cable,No,Yes,No,Yes,Yes,0,0,Male,Yes,No,0.35
+48982,13,39.99,531.93,Month-to-Month,Credit Card,Cable,No,Yes,Yes,No,No,0,0,Male,No,Yes,0.35
+77230,9,39.99,301.05,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.35
+53533,17,39.99,548.02,Month-to-Month,PayPal,DSL,No,Yes,Yes,No,Yes,0,0,Female,No,No,0.35
+48580,9,64.99,497.05,Month-to-Month,PayPal,Fiber Optic,No,No,Yes,Yes,Yes,0,0,Female,No,No,0.35
+65474,8,39.99,289.78,Month-to-Month,Credit Card,DSL,No,Yes,No,Yes,Yes,0,0,Female,No,No,0.35
+12376,13,45,515.55,Month-to-Month,Mailed Check,DSL,No,Yes,No,Yes,Yes,0,0,Male,No,No,0.35
+37857,13,39.99,518.23,Month-to-Month,PayPal,DSL,Yes,Yes,No,No,Yes,0,0,Male,No,Yes,0.35
+50804,26,45,953.3,Month-to-Month,ACH,DSL,No,Yes,Yes,No,Yes,1,0,Male,No,No,0.35
+45640,8,39.99,301.92,Month-to-Month,PayPal,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Male,No,Yes,0.35
+36992,21,74.99,1834.06,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,Yes,0,1,Female,Yes,No,0.35
+17922,24,54.99,1083.93,Month-to-Month,Credit Card,DSL,No,Yes,Yes,No,No,0,0,Male,Yes,No,0.35
+22899,9,45,474.21,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,No,No,0,1,Male,Yes,Yes,0.35
+58976,27,74.99,2015.58,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,No,0,1,Female,Yes,No,0.35
+47844,9,45,443.22,Month-to-Month,PayPal,Cable,Yes,Yes,No,No,No,0,0,Female,No,Yes,0.35
+52734,18,54.99,1104.61,Month-to-Month,Mailed Check,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Male,Yes,No,0.35
+21684,13,39.99,424.67,Month-to-Month,Credit Card,None,No,Yes,No,Yes,Yes,1,0,Female,No,No,0.35
+80770,17,64.99,1086.15,Month-to-Month,PayPal,Cable,No,Yes,Yes,No,Yes,0,0,Male,No,No,0.35
+18648,35,64.99,2216.91,Month-to-Month,Credit Card,Fiber Optic,Yes,No,Yes,No,Yes,0,1,Female,Yes,No,0.35
+89973,12,29.99,344.33,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,No,No,Yes,0,0,Female,Yes,No,0.35
+24038,18,39.99,580.31,Month-to-Month,PayPal,DSL,Yes,Yes,No,No,Yes,0,1,Male,Yes,Yes,0.35
+72007,7,64.99,535.98,Month-to-Month,PayPal,DSL,No,Yes,Yes,Yes,Yes,0,1,Male,Yes,No,0.3
+65024,10,29.99,297.97,Month-to-Month,Credit Card,Fiber Optic,Yes,Yes,Yes,No,Yes,1,0,Male,Yes,No,0.3
+46053,15,74.99,1004.31,Month-to-Month,PayPal,Fiber Optic,No,Yes,Yes,Yes,Yes,1,0,Male,Yes,No,0.3
+26065,32,54.99,1864.13,Month-to-Month,PayPal,Fiber Optic,Yes,Yes,No,Yes,Yes,0,0,Female,No,No,0.3
+83062,8,29.99,203.45,Month-to-Month,Mailed Check,Fiber Optic,Yes,Yes,Yes,No,Yes,0,0,Male,No,No,0.3
+97855,23,39.99,863.62,Month-to-Month,PayPal,Fiber Optic,No,Yes,Yes,Yes,Yes,0,1,Female,Yes,No,0.3
+25947,18,54.99,819.58,Month-to-Month,Credit Card,Fiber Optic,No,Yes,Yes,Yes,Yes,0,0,Male,No,No,0.3
+39366,23,39.99,846.78,Month-to-Month,Mailed Check,Cable,No,Yes,Yes,Yes,Yes,0,0,Female,Yes,No,0.3
+35904,55,45,2905.02,One Year,Mailed Check,Fiber Optic,No,No,No,No,No,0,0,Male,No,No,0.2
+43305,80,89.99,6264.09,One Year,ACH,DSL,No,No,No,No,Yes,0,0,Female,No,No,0.2
+18554,89,45,4285.44,One Year,Credit Card,Cable,No,No,No,No,No,1,0,Male,Yes,Yes,0.2
+70202,37,45,1807.89,One Year,ACH,Cable,No,No,No,No,Yes,0,0,Female,Yes,No,0.2
+36125,35,64.99,2725.27,One Year,Credit Card,None,No,No,No,No,No,0,0,Male,No,No,0.2
+82450,39,89.99,2861.72,One Year,ACH,DSL,No,No,No,No,Yes,0,0,Male,No,No,0.2
+83696,43,45,1713.23,One Year,PayPal,DSL,No,No,No,No,Yes,0,0,Male,No,Yes,0.2
+18462,90,54.99,4404.08,One Year,ACH,None,No,No,No,No,Yes,0,1,Male,Yes,No,0.2
+77408,38,45,1553.15,One Year,Credit Card,None,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.15
+32221,54,29.99,1824,One Year,Credit Card,DSL,No,Yes,No,No,No,0,0,Male,No,No,0.15
+13457,54,54.99,3288.04,One Year,Mailed Check,Fiber Optic,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.15
+60010,28,89.99,2044.44,One Year,ACH,Cable,No,No,Yes,No,Yes,0,1,Male,Yes,No,0.15
+48464,54,54.99,2934.22,One Year,ACH,Cable,No,Yes,No,No,Yes,0,1,Female,No,Yes,0.15
+55143,48,89.99,4209.21,One Year,Credit Card,DSL,Yes,No,No,No,No,0,0,Male,No,No,0.15
+87659,50,45,2454.69,One Year,Credit Card,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,Yes,Yes,0.15
+27168,54,45,2853.51,One Year,PayPal,DSL,No,Yes,No,No,No,0,0,Male,Yes,Yes,0.15
+10780,43,39.99,1483.46,One Year,ACH,DSL,No,Yes,No,No,Yes,0,1,Female,No,No,0.15
+14502,71,39.99,3154.93,One Year,ACH,Fiber Optic,Yes,No,No,No,Yes,1,0,Male,No,No,0.15
+66042,106,74.99,6894.2,One Year,Credit Card,DSL,Yes,No,No,No,Yes,0,0,Male,No,No,0.15
+37768,103,64.99,5379.56,One Year,Credit Card,Fiber Optic,No,No,No,Yes,Yes,0,0,Male,Yes,No,0.15
+28077,30,74.99,2659.89,One Year,ACH,None,No,No,No,Yes,Yes,1,0,Female,No,No,0.15
+11526,91,45,4744.92,One Year,Credit Card,DSL,Yes,No,No,No,Yes,0,0,Female,Yes,No,0.15
+29429,27,64.99,2026.07,One Year,Credit Card,Fiber Optic,No,Yes,No,No,No,0,1,Male,Yes,No,0.15
+15550,40,29.99,1081.04,One Year,ACH,DSL,No,Yes,No,No,Yes,0,1,Female,Yes,No,0.15
+69934,33,74.99,2107.18,One Year,ACH,DSL,No,Yes,No,No,Yes,0,1,Male,No,Yes,0.15
+47865,91,74.99,7395.02,One Year,ACH,DSL,No,No,Yes,No,Yes,0,0,Male,Yes,No,0.15
+31532,51,54.99,2690.52,One Year,ACH,Fiber Optic,No,No,Yes,No,No,0,0,Male,Yes,No,0.15
+79545,49,39.99,1589.14,One Year,Mailed Check,Cable,No,No,No,Yes,Yes,0,1,Female,Yes,No,0.15
+62369,54,45,2334.54,One Year,ACH,None,No,No,Yes,No,No,0,0,Female,Yes,Yes,0.15
+64963,106,99,11679.05,One Year,ACH,DSL,No,Yes,No,No,Yes,0,0,Female,Yes,No,0.15
+46466,112,74.99,8239.94,One Year,ACH,Fiber Optic,Yes,No,No,No,No,0,0,Male,No,No,0.15
+15784,26,74.99,1898.62,One Year,Credit Card,Cable,Yes,No,No,No,Yes,0,1,Female,Yes,No,0.15
+85642,76,89.99,6362.57,One Year,Credit Card,DSL,No,No,Yes,No,Yes,1,0,Male,Yes,No,0.15
+87608,36,45,1691.3,One Year,ACH,Fiber Optic,No,Yes,No,No,No,0,0,Female,Yes,No,0.15
+87805,36,29.99,967.53,One Year,Credit Card,Fiber Optic,No,Yes,No,No,Yes,1,0,Female,No,No,0.15
+76927,15,39.99,585.28,One Year,ACH,Fiber Optic,No,No,Yes,Yes,Yes,0,0,Male,No,No,0.1
+24256,110,45,4184.39,One Year,Credit Card,None,Yes,No,Yes,No,No,0,1,Female,Yes,No,0.1
+93389,71,39.99,3308.39,One Year,ACH,DSL,Yes,Yes,No,No,No,0,0,Male,Yes,No,0.1
+45025,91,29.99,2263.58,One Year,ACH,Fiber Optic,No,Yes,Yes,No,No,0,0,Female,Yes,No,0.1
+87361,44,64.99,2403.87,One Year,ACH,Fiber Optic,Yes,No,Yes,No,Yes,0,0,Female,Yes,No,0.1
+28827,46,54.99,2931.19,One Year,Mailed Check,Cable,No,No,Yes,Yes,Yes,0,0,Male,No,No,0.1
+69150,56,64.99,4329.49,One Year,ACH,Fiber Optic,No,No,Yes,Yes,No,0,0,Female,Yes,Yes,0.1
+37714,125,39.99,4133.58,One Year,PayPal,Fiber Optic,Yes,Yes,No,No,Yes,0,1,Female,No,Yes,0.1
+60488,71,39.99,3267.74,One Year,Credit Card,Fiber Optic,Yes,No,Yes,No,No,0,0,Female,Yes,No,0.1
+26804,134,64.99,8501.13,One Year,ACH,Cable,No,No,Yes,Yes,No,1,0,Female,Yes,No,0.1
+80985,20,54.99,1151.25,One Year,Credit Card,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,No,No,0.1
+87244,58,39.99,2688.32,One Year,Credit Card,DSL,No,No,Yes,Yes,Yes,0,1,Male,No,No,0.1
+52732,63,45,3279.53,One Year,Credit Card,None,Yes,No,Yes,No,No,0,0,Male,Yes,No,0.1
+42076,43,45,2005.54,One Year,Mailed Check,DSL,Yes,Yes,No,No,Yes,0,0,Female,No,No,0.1
+57030,141,45,6830.56,One Year,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,1,Female,Yes,No,0.1
+21215,71,89.99,5534.15,One Year,ACH,Cable,Yes,Yes,No,No,Yes,0,0,Male,No,No,0.1
+38453,52,54.99,2788.47,One Year,Mailed Check,DSL,No,Yes,Yes,No,Yes,0,1,Female,No,Yes,0.1
+71532,51,39.99,2135.43,One Year,Credit Card,Fiber Optic,Yes,No,No,Yes,Yes,0,0,Male,Yes,No,0.1
+49686,64,45,3346.23,One Year,ACH,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,No,No,0.1
+45906,67,54.99,3269.89,One Year,ACH,Fiber Optic,Yes,No,No,Yes,Yes,0,1,Male,No,No,0.1
+41218,53,64.99,3376.07,One Year,ACH,Cable,Yes,Yes,No,No,No,0,0,Female,No,No,0.1
+68525,53,74.99,3215.85,One Year,Credit Card,Cable,Yes,No,Yes,No,No,0,0,Female,No,No,0.1
+21871,93,54.99,5975.04,One Year,ACH,Fiber Optic,Yes,No,Yes,No,Yes,0,0,Male,No,No,0.1
+25576,93,54.99,5965.02,One Year,ACH,Fiber Optic,Yes,Yes,No,No,No,0,0,Male,Yes,No,0.1
+59098,15,45,556.66,One Year,ACH,Cable,No,No,Yes,Yes,Yes,0,0,Female,Yes,No,0.1
+55757,35,29.99,1025.5,One Year,Mailed Check,Fiber Optic,No,Yes,No,Yes,Yes,0,0,Female,Yes,No,0.1
+53232,131,54.99,7872.05,One Year,ACH,Cable,Yes,No,Yes,No,Yes,1,0,Female,Yes,No,0.1
+20922,39,54.99,2376.9,One Year,ACH,Cable,Yes,No,Yes,No,No,0,1,Female,No,No,0.1
+23266,12,39.99,517.73,One Year,Credit Card,Cable,No,Yes,No,Yes,No,0,0,Female,Yes,No,0.1
+56063,78,45,3461.73,One Year,Mailed Check,None,Yes,Yes,No,No,No,0,0,Male,Yes,No,0.1
+55330,12,54.99,730.69,One Year,PayPal,Fiber Optic,No,No,Yes,Yes,Yes,0,0,Male,Yes,No,0.1
+92386,18,45,833.94,One Year,Credit Card,Fiber Optic,Yes,No,Yes,No,No,0,1,Female,No,No,0.1
+21923,24,45,900.4,One Year,ACH,Fiber Optic,Yes,Yes,No,No,Yes,0,1,Male,Yes,No,0.1
+60199,57,39.99,2512.93,One Year,Credit Card,Cable,Yes,Yes,No,No,No,0,0,Male,Yes,No,0.1
+40537,20,74.99,1768.88,One Year,ACH,Fiber Optic,No,Yes,No,Yes,Yes,0,0,Male,Yes,No,0.1
+56149,73,89.99,5547.34,One Year,Mailed Check,DSL,Yes,Yes,No,No,No,0,1,Female,Yes,No,0.1
+94005,38,29.99,945.63,Two Year,Credit Card,DSL,No,No,No,No,Yes,0,1,Male,No,No,0.08
+22823,18,29.99,555.48,One Year,Mailed Check,Fiber Optic,No,Yes,Yes,Yes,No,1,0,Female,Yes,No,0.05
+69687,75,54.99,3978.29,One Year,ACH,DSL,Yes,Yes,No,Yes,No,0,0,Male,Yes,Yes,0.05
+22570,21,39.99,718.21,One Year,Credit Card,Fiber Optic,Yes,Yes,Yes,No,No,0,0,Male,No,No,0.05
+27158,64,74.99,4621.49,One Year,PayPal,DSL,Yes,No,Yes,Yes,Yes,0,0,Male,Yes,No,0.05
+36645,26,54.99,1151.93,One Year,ACH,Fiber Optic,No,Yes,Yes,Yes,No,0,1,Male,No,No,0.05
+44940,19,45,940.72,One Year,Credit Card,Cable,Yes,No,Yes,Yes,Yes,0,1,Male,No,No,0.05
+76852,40,64.99,2556.4,One Year,Credit Card,Fiber Optic,Yes,Yes,Yes,No,Yes,0,1,Male,Yes,No,0.05
+37431,35,74.99,2903.21,One Year,ACH,None,Yes,Yes,Yes,No,Yes,0,1,Male,Yes,No,0.05
+88913,35,45,1822.93,One Year,ACH,Fiber Optic,Yes,Yes,No,Yes,Yes,0,0,Female,Yes,No,0.05
+45447,45,39.99,1763.86,One Year,Mailed Check,DSL,Yes,Yes,No,Yes,No,0,1,Female,Yes,No,0.05
+13400,22,39.99,773.85,One Year,Credit Card,None,Yes,Yes,No,Yes,Yes,0,0,Female,Yes,No,0.05
+49158,121,64.99,6404.97,One Year,Credit Card,Fiber Optic,Yes,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.05
+54067,46,54.99,2313.63,One Year,Credit Card,DSL,Yes,No,Yes,Yes,Yes,0,0,Female,No,No,0.05
+36555,37,45,1413.62,One Year,ACH,DSL,Yes,Yes,Yes,No,Yes,0,0,Male,No,No,0.05
+40582,27,54.99,1407.81,One Year,Credit Card,DSL,No,Yes,Yes,Yes,No,0,0,Female,Yes,No,0.05
+15021,25,39.99,825.17,One Year,Mailed Check,Cable,Yes,Yes,Yes,No,Yes,0,0,Male,Yes,No,0.05
+41573,88,64.99,5790.4,One Year,ACH,Fiber Optic,Yes,Yes,Yes,No,Yes,0,1,Male,Yes,No,0.05
+94280,90,29.99,2634.9,One Year,Mailed Check,DSL,Yes,Yes,No,Yes,Yes,0,1,Male,No,No,0.05
+48622,42,29.99,1353.99,One Year,ACH,Cable,Yes,Yes,No,Yes,Yes,1,0,Female,No,No,0.05
+20830,125,39.99,4061.23,One Year,Credit Card,DSL,No,Yes,Yes,Yes,Yes,1,0,Male,Yes,No,0.05
+64513,45,74.99,3548.16,One Year,Credit Card,Fiber Optic,Yes,Yes,No,Yes,No,0,1,Male,Yes,No,0.05
+38506,41,54.99,2200.29,Two Year,ACH,Fiber Optic,No,No,No,Yes,Yes,0,0,Male,Yes,No,0.03
+16968,132,54.99,6019.52,Two Year,Credit Card,Cable,Yes,No,No,No,Yes,0,1,Male,Yes,No,0.03
+17788,83,74.99,6980.99,Two Year,Mailed Check,Fiber Optic,No,No,Yes,No,No,0,0,Female,Yes,No,0.03
+20396,40,64.99,2363.88,Two Year,Mailed Check,Fiber Optic,No,Yes,No,No,Yes,0,0,Male,No,No,0.03
+17036,120,29.99,4046.14,Two Year,Credit Card,DSL,Yes,No,No,No,Yes,0,0,Male,Yes,No,0.03
+44171,91,45,4382.71,Two Year,ACH,DSL,No,No,Yes,No,Yes,0,1,Female,Yes,No,0.03
+51782,107,54.99,5685.09,Two Year,ACH,DSL,No,No,Yes,No,No,0,0,Female,Yes,No,0.03
+95002,37,39.99,1290.36,Two Year,ACH,Fiber Optic,No,No,No,Yes,No,0,0,Female,No,No,0.03
+96614,102,74.99,7175.85,Two Year,ACH,DSL,Yes,No,Yes,No,Yes,0,1,Female,Yes,No,0
+35532,135,45,4964.57,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,No,Yes,0,0,Female,Yes,No,0
+37702,47,89.99,3757.25,Two Year,ACH,Cable,No,Yes,Yes,No,No,0,1,Male,No,No,0
+11434,44,64.99,2736.04,Two Year,ACH,Cable,Yes,No,Yes,Yes,No,0,0,Male,No,No,0
+41630,44,64.99,2797.04,One Year,Mailed Check,DSL,Yes,Yes,Yes,Yes,Yes,0,0,Male,No,No,0
+36753,142,64.99,7928.04,Two Year,ACH,None,Yes,Yes,Yes,Yes,Yes,0,1,Female,Yes,No,0
+47200,97,39.99,3348.56,Two Year,Credit Card,Fiber Optic,Yes,Yes,No,Yes,No,0,1,Male,Yes,No,0
+84258,54,64.99,3023,Two Year,Mailed Check,DSL,No,Yes,Yes,No,No,0,0,Male,Yes,No,0
+75190,80,39.99,2570.93,Two Year,Mailed Check,Fiber Optic,Yes,Yes,Yes,No,Yes,0,1,Male,Yes,No,0
+30190,136,45,5953.13,Two Year,ACH,Fiber Optic,Yes,No,No,Yes,Yes,0,1,Male,Yes,No,0
+99021,112,89.99,10067.32,Two Year,ACH,DSL,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0
+76437,92,54.99,5481.62,Two Year,ACH,None,Yes,Yes,Yes,No,No,0,1,Male,Yes,No,0
+60334,129,29.99,3581.27,Two Year,Credit Card,DSL,Yes,Yes,No,No,No,0,0,Female,Yes,No,0
+41002,95,64.99,6444.48,Two Year,ACH,Fiber Optic,Yes,No,Yes,No,No,0,0,Female,No,No,0
+55947,79,45,3728.51,Two Year,PayPal,Fiber Optic,No,Yes,Yes,Yes,Yes,1,0,Female,Yes,No,0
+46170,60,54.99,2874.71,Two Year,Credit Card,Cable,Yes,Yes,Yes,Yes,No,0,0,Female,No,No,0
+43971,122,39.99,4147.2,Two Year,Mailed Check,DSL,Yes,No,Yes,No,No,0,1,Female,Yes,No,0
+24671,47,54.99,2898.87,Two Year,Mailed Check,DSL,Yes,Yes,Yes,Yes,No,0,1,Female,Yes,No,0
+71419,133,74.99,8540.19,Two Year,ACH,Cable,No,No,Yes,Yes,No,1,1,Male,Yes,No,0
+96981,60,29.99,1669.2,Two Year,ACH,Cable,Yes,No,Yes,Yes,Yes,0,1,Female,Yes,No,0
+29541,57,64.99,3452,Two Year,ACH,DSL,Yes,Yes,Yes,No,Yes,0,0,Male,Yes,No,0
+40152,135,39.99,5059.34,Two Year,Credit Card,DSL,Yes,Yes,No,No,No,0,1,Female,No,No,0
+21307,127,74.99,10631.55,Two Year,ACH,DSL,Yes,No,Yes,Yes,No,0,1,Male,No,No,0
+35078,111,89.99,10547.34,Two Year,Mailed Check,DSL,Yes,Yes,No,Yes,Yes,0,0,Male,Yes,No,0
+74014,52,89.99,5029.69,Two Year,ACH,DSL,No,Yes,Yes,Yes,Yes,1,0,Male,No,No,0
+31855,61,45,2957.09,Two Year,PayPal,Cable,Yes,No,No,Yes,Yes,0,0,Female,Yes,No,0
+16082,70,99,5998.48,Two Year,Mailed Check,Fiber Optic,Yes,Yes,Yes,No,No,0,0,Male,Yes,No,0
+88286,139,39.99,5216.17,Two Year,ACH,DSL,Yes,No,Yes,No,Yes,0,1,Female,No,No,0
+78927,103,54.99,4676.54,Two Year,Credit Card,None,Yes,Yes,No,Yes,No,0,0,Male,Yes,No,0
+28834,51,64.99,2818.54,Two Year,ACH,DSL,No,Yes,Yes,Yes,No,0,1,Male,Yes,No,0
+39310,44,64.99,2598.59,Two Year,ACH,DSL,Yes,Yes,Yes,No,Yes,0,0,Female,Yes,No,0
+97580,38,45,1652.83,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,0,Male,Yes,No,0
+35026,50,39.99,1882.5,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,No,No,0,0,Male,Yes,No,0
+57055,78,74.99,6586.48,Two Year,Mailed Check,Fiber Optic,Yes,Yes,Yes,No,Yes,0,0,Male,Yes,No,0
+20712,92,89.99,7363.05,Two Year,Credit Card,Fiber Optic,Yes,No,Yes,Yes,No,0,1,Female,Yes,No,0
+25980,142,54.99,8851.88,Two Year,ACH,None,Yes,Yes,No,Yes,No,0,0,Female,No,No,0
+89520,130,64.99,7569.74,Two Year,Credit Card,DSL,Yes,Yes,Yes,Yes,No,1,0,Male,Yes,No,0
+61000,71,89.99,5181.83,Two Year,Mailed Check,Cable,Yes,No,Yes,Yes,No,0,0,Female,No,No,0
+37787,115,45,5282.28,Two Year,Mailed Check,Fiber Optic,No,Yes,Yes,No,Yes,0,0,Male,Yes,No,0
+53867,52,39.99,2445.24,Two Year,ACH,DSL,Yes,No,Yes,Yes,No,0,1,Male,No,No,0
+61706,117,39.99,4047.69,Two Year,ACH,Fiber Optic,Yes,No,No,Yes,No,0,0,Male,Yes,No,0
+34243,86,29.99,2304.16,Two Year,Mailed Check,Fiber Optic,No,No,Yes,Yes,No,0,1,Female,No,No,0
+98377,47,89.99,4578.23,Two Year,PayPal,DSL,No,Yes,Yes,Yes,No,0,1,Female,Yes,No,0
+31234,90,54.99,5185.05,One Year,Credit Card,Fiber Optic,Yes,Yes,Yes,Yes,Yes,0,1,Female,No,No,0
+53590,91,29.99,2348.9,Two Year,Mailed Check,Cable,Yes,Yes,No,No,Yes,0,0,Female,Yes,No,0
+79985,128,29.99,3677.46,Two Year,ACH,DSL,Yes,Yes,No,No,No,0,0,Male,No,No,0
+56869,112,74.99,8427.43,Two Year,Mailed Check,Cable,Yes,Yes,Yes,No,No,0,0,Male,No,No,0
+17598,37,45,1823.86,Two Year,ACH,DSL,Yes,Yes,No,Yes,No,0,0,Female,No,No,0
+30565,42,89.99,3834.43,Two Year,Mailed Check,Fiber Optic,No,Yes,Yes,No,No,1,0,Female,Yes,No,0
+24145,45,39.99,2035.92,Two Year,ACH,DSL,Yes,Yes,Yes,Yes,Yes,0,1,Female,Yes,No,0
+43361,48,45,2058.09,Two Year,Mailed Check,DSL,Yes,Yes,Yes,Yes,No,1,0,Female,No,No,0
+36984,127,29.99,3163.47,Two Year,Credit Card,DSL,Yes,No,Yes,No,No,0,1,Female,No,No,0
+70833,54,29.99,1813.76,Two Year,ACH,DSL,Yes,No,Yes,Yes,Yes,0,0,Male,No,No,0
+26582,44,45,2293.95,Two Year,ACH,Cable,Yes,No,Yes,No,No,0,0,Male,No,No,0
+99554,88,45,4707.17,Two Year,Credit Card,DSL,Yes,Yes,Yes,Yes,Yes,0,0,Male,Yes,No,0
+45628,105,39.99,4843.09,One Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,Yes,0,1,Male,Yes,No,0
+21808,92,39.99,3738.46,Two Year,Mailed Check,Cable,Yes,Yes,Yes,Yes,No,0,0,Male,Yes,No,0
+23776,109,45,5320.75,Two Year,Credit Card,None,Yes,Yes,Yes,No,No,0,1,Female,No,No,0
+41684,47,29.99,1482.84,Two Year,Mailed Check,None,No,Yes,Yes,No,Yes,0,1,Male,Yes,No,0
+84304,60,74.99,4677.99,Two Year,Credit Card,Fiber Optic,Yes,No,Yes,Yes,Yes,0,0,Male,Yes,No,0
+23871,52,29.99,1701.82,One Year,Credit Card,Cable,Yes,Yes,Yes,Yes,Yes,0,0,Female,No,No,0
+71499,110,39.99,3752.55,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,0,Female,Yes,No,0
+58646,53,54.99,2928.39,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,1,Male,No,No,0
+53263,119,64.99,8975.22,Two Year,Mailed Check,DSL,No,Yes,No,Yes,No,0,0,Female,No,No,0
+23841,60,74.99,3692.1,Two Year,Mailed Check,DSL,Yes,No,Yes,No,No,0,0,Female,No,No,0
+68310,131,64.99,10057.56,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,No,No,1,0,Female,Yes,No,0
+44605,105,54.99,4674.34,Two Year,Credit Card,Fiber Optic,Yes,No,Yes,No,No,0,0,Male,Yes,No,0
+46851,50,29.99,1353.28,Two Year,ACH,Fiber Optic,Yes,No,Yes,No,No,0,0,Female,Yes,No,0
+36854,126,54.99,5794.39,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,No,No,0,1,Male,Yes,No,0
+34452,46,39.99,1666.47,Two Year,Credit Card,Cable,Yes,No,No,Yes,No,0,0,Male,Yes,No,0
+97581,42,29.99,1294.11,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,Yes,1,0,Female,Yes,No,0
+83133,141,39.99,6219.33,Two Year,Credit Card,Fiber Optic,Yes,No,No,Yes,Yes,1,0,Female,Yes,No,0
+50507,89,54.99,3942.02,Two Year,Credit Card,DSL,Yes,Yes,No,No,Yes,0,0,Female,No,No,0
+26268,51,54.99,2679.42,Two Year,Mailed Check,Fiber Optic,Yes,No,No,Yes,Yes,0,0,Female,Yes,No,0
+96347,84,89.99,7125.27,Two Year,Credit Card,DSL,Yes,Yes,No,Yes,Yes,0,0,Male,No,No,0
+85808,133,64.99,8627.59,Two Year,Mailed Check,DSL,Yes,No,Yes,Yes,No,0,0,Female,No,No,0
+38052,58,29.99,1540.75,Two Year,ACH,Cable,Yes,No,Yes,Yes,Yes,0,1,Female,No,No,0
+45940,72,64.99,4570.24,Two Year,ACH,Cable,No,Yes,Yes,Yes,No,0,0,Female,No,No,0
+10458,111,64.99,7394.05,Two Year,Mailed Check,DSL,Yes,Yes,Yes,Yes,No,0,0,Female,No,No,0
+91155,127,39.99,5969.88,Two Year,ACH,None,Yes,Yes,Yes,Yes,No,1,0,Male,Yes,No,0
+30371,121,45,4426.63,Two Year,ACH,Cable,No,No,Yes,Yes,No,0,0,Female,No,No,0
+74165,90,74.99,7990.27,Two Year,Mailed Check,DSL,Yes,Yes,Yes,No,No,0,1,Female,Yes,No,0
+48780,135,45,6537.5,Two Year,ACH,DSL,Yes,Yes,Yes,No,No,1,0,Male,Yes,No,0
+68428,70,64.99,4985.07,Two Year,ACH,Cable,Yes,Yes,No,No,No,0,0,Male,No,No,0
+82317,85,64.99,4607.34,Two Year,Credit Card,Fiber Optic,Yes,Yes,Yes,No,No,0,1,Male,No,No,0
+96253,137,29.99,3620.53,Two Year,ACH,Fiber Optic,Yes,No,Yes,Yes,No,0,1,Male,Yes,No,0
+10454,101,45,4135.72,One Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,0,Male,Yes,No,0
+11758,129,64.99,9325.69,Two Year,ACH,Cable,Yes,Yes,Yes,No,No,1,0,Male,Yes,No,0
+12291,138,29.99,3770.15,Two Year,ACH,None,Yes,No,No,Yes,No,0,1,Male,No,No,0
+91178,102,39.99,4835.84,Two Year,ACH,Fiber Optic,Yes,No,Yes,Yes,No,0,0,Male,Yes,No,0
+38418,48,64.99,3621.86,Two Year,Credit Card,DSL,Yes,Yes,Yes,Yes,Yes,1,0,Female,Yes,No,0
+39578,72,45,3162.26,Two Year,Credit Card,Cable,Yes,No,Yes,No,No,0,0,Male,Yes,No,0
+24285,122,39.99,5626.65,Two Year,ACH,DSL,Yes,Yes,No,Yes,Yes,0,0,Female,No,No,0
+24105,114,29.99,3780.05,Two Year,Mailed Check,Cable,Yes,No,Yes,Yes,No,0,1,Male,Yes,No,0
+63461,121,64.99,7988.1,Two Year,ACH,Fiber Optic,No,Yes,Yes,Yes,No,0,0,Female,Yes,No,0
+23339,58,45,2597.86,Two Year,ACH,DSL,Yes,Yes,No,No,Yes,0,0,Female,Yes,No,0
+43883,98,54.99,6051.61,Two Year,Mailed Check,DSL,Yes,Yes,No,Yes,No,0,0,Female,No,No,0
+84802,40,29.99,1296.25,Two Year,ACH,DSL,No,Yes,Yes,No,No,0,0,Female,No,No,0
+35498,44,39.99,1809.25,Two Year,ACH,Fiber Optic,No,Yes,Yes,Yes,No,0,1,Male,Yes,No,0
+84164,72,54.99,3310.33,Two Year,Mailed Check,Fiber Optic,No,Yes,Yes,Yes,No,0,0,Male,No,No,0
+17204,50,74.99,4448.47,Two Year,Mailed Check,Fiber Optic,Yes,Yes,Yes,Yes,Yes,0,1,Male,No,No,0
+63746,40,74.99,3343.63,Two Year,ACH,DSL,Yes,Yes,No,Yes,No,0,0,Male,Yes,No,0
+68309,37,29.99,1191.33,Two Year,ACH,Fiber Optic,Yes,No,Yes,No,Yes,0,0,Female,Yes,No,0
+35610,91,45,3675.96,Two Year,ACH,Cable,Yes,Yes,No,Yes,No,0,0,Female,Yes,No,0
+40716,80,29.99,2443.21,Two Year,ACH,Cable,Yes,Yes,Yes,No,Yes,0,0,Male,No,No,0
+28488,45,39.99,1486.35,Two Year,Mailed Check,Fiber Optic,Yes,Yes,Yes,Yes,Yes,1,0,Male,Yes,No,0
+38803,80,39.99,3041.21,One Year,ACH,DSL,Yes,Yes,Yes,Yes,Yes,1,0,Male,Yes,No,0
+18551,64,54.99,2974.48,Two Year,ACH,DSL,Yes,Yes,Yes,Yes,No,0,0,Female,Yes,No,0
+12893,127,45,6314.55,Two Year,ACH,DSL,No,Yes,Yes,Yes,Yes,1,0,Female,Yes,No,0
+94276,111,74.99,7188.95,Two Year,ACH,DSL,Yes,Yes,No,Yes,No,0,0,Male,No,No,0
+24639,51,39.99,1875.29,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,1,Female,Yes,No,0
+67171,98,45,4831.85,Two Year,ACH,None,Yes,Yes,No,Yes,No,0,1,Male,Yes,No,0
+70424,125,64.99,8881.2,Two Year,PayPal,Fiber Optic,No,Yes,Yes,No,No,1,0,Female,Yes,No,0
+57693,43,45,2200.18,Two Year,Credit Card,Cable,Yes,No,Yes,Yes,No,0,1,Male,Yes,No,0
+93207,116,29.99,3787.43,Two Year,Credit Card,None,Yes,No,Yes,Yes,Yes,1,0,Male,No,No,0
+71998,52,29.99,1574.15,Two Year,ACH,DSL,Yes,Yes,Yes,No,Yes,0,0,Female,Yes,No,0
+54375,67,99,7506.24,Two Year,ACH,Fiber Optic,Yes,Yes,Yes,Yes,No,0,0,Female,Yes,No,0
+16534,61,29.99,2035.63,Two Year,PayPal,Cable,Yes,Yes,No,Yes,Yes,0,1,Female,Yes,No,0
